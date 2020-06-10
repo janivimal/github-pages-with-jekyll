@@ -1,1 +1,0 @@
-Hello & Welcome to Vimal's Blog.... In this blog I will be writing about some key features of Git and how well Jekyll integrates with Git. It is really easy to use Jekyll and create web pages within no time. Soon as web pages are ready in Jekyll we can host them as website on Git.
